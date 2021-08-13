@@ -20,4 +20,3 @@ I'm Declan, a Software Developer from Allenton, WI. My skills range over the ful
 
 <br />
 
-![declandev GitHub stats](https://github-readme-stats.vercel.app/api?username=declandev&count_private=true&show_icons=true)
